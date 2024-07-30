@@ -4,3 +4,7 @@ body{
   background-image: url('/assets/bg-image.svg');
   background-size: cover;
 }
+
+img{
+  border-radius: 16px;
+}
